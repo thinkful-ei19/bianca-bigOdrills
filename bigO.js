@@ -136,3 +136,4 @@ function isPrime(n) {
 }
 //Linear Time O(n)
 //larger the dataset the more time it would take to loop through 
+
